@@ -1,7 +1,7 @@
 import os
 import sys
 import pandas as pd
-
+ 
 _CURR_PATH = os.path.dirname(os.path.abspath(__file__))
 _INFO_PATH = os.path.join(_CURR_PATH, "MemberInfo/InfoFile")
 print(_INFO_PATH)
