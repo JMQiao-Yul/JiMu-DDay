@@ -21,5 +21,5 @@ for file in get_all_file_path(_INFO_PATH):
     print(re[re['工号'] > 44619].head())
     df = pd.DataFrame(re)
     #print(df)
-    
+
 
