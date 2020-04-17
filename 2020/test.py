@@ -24,5 +24,3 @@ for file in get_all_file_path(_INFO_PATH):
     df = pd.DataFrame(re)
     #print(df)
     
-
-
